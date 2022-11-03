@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bright
 - 👀 I’m interested in Web Programming. I am very conversant with PHP, MYSQL, JAVASCRIPT, REACTjs, NEXTjs.
 - 🌱 I’m currently learning REACT NATIVE and Python.
-- 💞️ I’m looking to collaborate on Build Website.
+- 💞️ I’m looking to collaborate on Building Websites.
 - 📫 Want to reach me? Send me an email *brightinamforgod@gmail.com*
 
 <!---
